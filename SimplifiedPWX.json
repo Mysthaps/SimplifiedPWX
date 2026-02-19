@@ -1,0 +1,13 @@
+{
+    "id": "simplifiedpwx",
+    "name": "Simplified POLTERWORX",
+    "author": ["Mysthaps"],
+    "description": "Makes POLTERWORX cards' descriptions less visually cluttered.",
+    "prefix": "simplifiedpwx",
+    "main_file": "main.lua",
+	"priority": 0,
+    "dependencies": [
+        "jen"
+    ],
+    "version": "0.1"
+}
